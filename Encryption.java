@@ -12,7 +12,5 @@ public class Encryption
 	{
 		CipherGUI CipherGUI = new CipherGUI();
 		CipherGUI.setVisible(true);		
-		
-		VCipher vc = new VCipher("JAMES");
 	}
 }
